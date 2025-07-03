@@ -1,0 +1,23 @@
+# Browser Extension Audit Report
+Author: Shivdutt Girnare
+Date: July 03, 2025
+
+## Browser Used
+- [e.g., Google Chrome or Mozilla Firefox]
+
+## Steps Performed
+1. Opened the extensions manager to review installed extensions.
+2. Checked permissions, reviews, and usage for each extension.
+3. Removed any suspicious or unused extensions.
+4. Restarted the browser to verify improvements.
+5. Researched potential risks of malicious extensions.
+
+## Suspicious Extensions Removed
+- [e.g., None found] or [e.g., RandomTool - Removed due to unknown source and excessive permissions]
+
+## Research on Malicious Extensions
+- Malicious extensions can steal passwords, inject malicious scripts, or track user activity.
+- They often request unnecessary permissions (e.g., access to all websites).
+
+## Observations
+- [e.g., No suspicious extensions found] or [e.g., Performance improved after removal].
