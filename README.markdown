@@ -1,7 +1,7 @@
 # Cybersecurity Internship Task 7: Browser Extension Audit
 
 ## Author
-- **Name**: Neel Bhatt
+- **Name**: Shivdutt Girnare
 - **Date**: July 03, 2025
 - **Repository**: Cybersecurity-Task7
 
@@ -32,6 +32,6 @@ Identify and remove potentially harmful browser extensions to enhance browser se
 
 ## Acknowledgments
 - **Elevate Cybersecurity Internship**: For this learning opportunity.
-- **Neel Bhatt**: For completing the task effectively.
+- **Shivdutt Girnare**: For completing the task effectively.
 
 This repository represents my work for Task 7, submitted with permission.
